@@ -64,8 +64,10 @@ urlcolor: blue
 
 *Instructor, Software/Data Carpentry* \hfill 2016
 
-> Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science workshops at UC Davis and UC Berkeley. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
+> Teach researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done using open source and reproducible tools. Specifically, have taught ecology/natural science workshops at UC Davis, UC Berkeley, and University of Rhode Island Coastal Institute. (http://software-carpentry.org/) (http://www.datacarpentry.org/)
 
+# 
+  
 *Teaching Assistant, Ecogeomorphology, University of California Davis* \hfill 2015
 
 > Taught advanced undergraduate students to multidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of a selected stream system. Taught students from diverse backgrounds to work in interdisciplinary research teams to collect and analyze field data from the Tuolumne River system. Guided and taught in classroom, lab, and field, including a 3 day rafting trip on the Tuolumne River.
@@ -77,6 +79,8 @@ urlcolor: blue
 # PUBLICATIONS
 
 ## **Journal Articles**
+
+Steel, A. E. R. A. Peek, R. A. Lusardi, S. M. Yarnell. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in prep__*.
 
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
 
@@ -145,6 +149,10 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 “The Aggie Brickyard.” Lead Editor & Graphic Designer,  2015--present.  
 
 > http://egsa.ucdavis.edu/blog/2016-06-16-second-volume-of-the-aggie-brickyard-is-published/
+
+"Nature's Confluence Blog" Contributing Writer, 2015--present.
+
+> http://www.naturesconfluence.com
 
 “A Watershed Moment.” UC Davis Magazine, Spring 2014.
 
