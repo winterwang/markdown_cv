@@ -28,7 +28,7 @@ urlcolor: blue
 
 # EDUCATION
 
-*University of California, Davis*, Ph.D. Ecology \hfill expected 2018  
+*University of California, Davis*, Ph.D. candidate Ecology \hfill expected 2018  
 *University of San Francisco*, M.S. Biology \hfill 2010  
 *University of California, Davis*, B.S. Wildlife, Fish, & Conservation Biology \hfill 2002  
 
@@ -68,9 +68,9 @@ urlcolor: blue
 
 # 
   
-*Teaching Assistant, Ecogeomorphology, University of California Davis* \hfill 2015
+*Co-Instructor, Ecogeomorphology, University of California Davis* \hfill 2015
 
-> Taught advanced undergraduate students to multidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of a selected stream system. Taught students from diverse backgrounds to work in interdisciplinary research teams to collect and analyze field data from the Tuolumne River system. Guided and taught in classroom, lab, and field, including a 3 day rafting trip on the Tuolumne River.
+> Taught advanced undergraduate students to multidisciplinary collaborative watershed and stream analysis through combined laboratory and field study of a selected stream system. Educated students from diverse backgrounds to work in interdisciplinary research teams to collect and analyze field data from the Tuolumne River system. Guided, lectured, and taught in classroom, lab, and field, including a 3 day rafting trip on the Tuolumne River.
 
 *Lab Instructor/Teaching Assistant, General Biology, University of San Francisco* \hfill 2009--2010
 
@@ -100,6 +100,10 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 ## **Acknowledged**
 
+Thomson, R. C., A. N. Wright, H. B. Shaffer. 2016. California Amphibian and Reptile Species of Special Concern. University of California Press.
+
+Dodd, C. K. J. 2013. Frogs of the United States and Canada, 2-vol. set. Baltimore: The Johns Hopkins University Press.
+
 Bondi, C.A., S.M. Yarnell, and A.J. Lind. 2013.  "Transferability of habitat suitability criteria for a stream breeding frog (*Rana boylii*) in the Sierra Nevada, California." *Herpetological Conservation and Biology* 8(1):88-–103.
 
 Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, and M.E. Power. 2012. "Effects of Flow Regimes Altered by Dams on Survival, Population Declines, and Range-Wide Losses of California River-Breeding Frogs." *Conservation Biology* 26(3): 513--524.
@@ -107,6 +111,8 @@ Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, a
 Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
 
 # PRESENTATIONS
+
+**2016. Peek, R., S. Yarnell, D. Waetjen, D. Weixelman.** "Using and Updating the UC Sierra Nevada Meadows Data Clearinghouse: Leveraging Remote Sensing and Field Data to Assess Resiliency." Natural Areas Conference, Davis 18--20 Oct.
 
 **2016. Peek, R., H. Dahlke, S. Yarnell.** "Linking Water Source Signatures with Native Amphibian Breeding Timing in a Northern Sierra Nevada Watershed." Society for Freshwater Science Annual Meeting, Sacramento 21--26 May.
 
@@ -146,7 +152,7 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 
 # PUBLIC MEDIA
 
-“The Aggie Brickyard.” Lead Editor & Graphic Designer,  2015--present.  
+“The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present.  
 
 > http://egsa.ucdavis.edu/blog/2016-06-16-second-volume-of-the-aggie-brickyard-is-published/
 
@@ -178,7 +184,7 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 
   - CDFW Scientific Collecting Permit #6881
   - Software & Data Carpentry Instructor
-  - Davis R Users Group - Co-Administrator
+  - Davis R-Users Group - Co-Administrator
   - American Society of Ichthyologists and Herpetologists (ASIH)
   - Society for Study of Amphibians and Reptiles (SSAR)
   - Ecology Society of America (ESA)
