@@ -17,7 +17,7 @@ github: ryanpeek
 web: ryanpeek.github.io
 updated: yes
 
-keywords: R Markdown, academic CV, template
+keywords: RMarkdown, academic CV, template
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
