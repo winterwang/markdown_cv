@@ -80,13 +80,13 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-Steel, A. E. R. A. Peek, R. A. Lusardi, S. M. Yarnell. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in prep__*.
+Steel, A.E., R.A. Peek, R.A. Lusardi, S.M. Yarnell. "Associating Metrics Of Hydrologic Variability With Benthic Macroinvertebrate Communities In Regulated And Unregulated Snowmelt-Dominated Rivers." *Freshwater Biology* *__in prep__*.
 
 Yarnell, S., R. Peek, G. Epke and A. Lind. 2016. "Management of the Spring Snowmelt Recession in Regulated Systems." *JAWRA Journal of the American Water Resources Association* 52(3): 723--736.
 
 Grantham, T., K. Fesenmeyer, R. Peek, E. Holmes, A. Bell, R. Quiñones, N. Santos, J. Howard, J. Viers, P. Moyle. 2016. "Missing the boat on freshwater fish conservation in California." *Conservation Letters* 10.1111/conl.12249.
 
-Howard, J. K., K. R. Klausmeyer, K. A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J. V. Katz, S. Kupferberg, P. McIntyre, P. B. Moyle, P. R. Ode, R. Peek, R. M. Quinones, A. C. Rehn, N. Santos, S. Schoenig, L. Serpa, J. D. Shedd, J. Slusark, J. H. Viers, A. Wright and S. A. Morrison. 2015. "Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California." *PLoS One* 10(7): e0130710.
+Howard, J.K., K.R. Klausmeyer, K.A. Fesenmyer, J. Furnish, T. Gardali, T. Grantham, J.V. Katz, S. Kupferberg, P. McIntyre, P.B. Moyle, P.R. Ode, R. Peek, R.M. Quinones, A.C. Rehn, N. Santos, S. Schoenig, L. Serpa, J.D. Shedd, J. Slusark, J.H. Viers, A. Wright and S.A. Morrison. 2015. "Patterns of Freshwater Species Richness, Endemism, and Vulnerability in California." *PLoS One* 10(7): e0130710.
 
 ## **Other Publications**
 
@@ -100,33 +100,33 @@ Peek, R. 2010. "Landscape Genetics of Foothill Yellow-legged Frogs (*Rana boylii
 
 ## **Acknowledged**
 
-Thomson, R. C., A. N. Wright, H. B. Shaffer. 2016. California Amphibian and Reptile Species of Special Concern. University of California Press.
+Thomson, R.C., A.N. Wright, H.B. Shaffer. 2016. California Amphibian and Reptile Species of Special Concern. University of California Press.
 
-Dodd, C. K. J. 2013. Frogs of the United States and Canada, 2-vol. set. Baltimore: The Johns Hopkins University Press.
+Dodd, C.K.J. 2013. Frogs of the United States and Canada, 2-vol. set. Baltimore: The Johns Hopkins University Press.
 
 Bondi, C.A., S.M. Yarnell, and A.J. Lind. 2013.  "Transferability of habitat suitability criteria for a stream breeding frog (*Rana boylii*) in the Sierra Nevada, California." *Herpetological Conservation and Biology* 8(1):88-–103.
 
 Kupferberg, S.J., W.J. Palen, A.J. Lind, S. Bobzien, A. Catenazzi, J. Drennan, and M.E. Power. 2012. "Effects of Flow Regimes Altered by Dams on Survival, Population Declines, and Range-Wide Losses of California River-Breeding Frogs." *Conservation Biology* 26(3): 513--524.
 
-Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
+Knapp, R.A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish results in population expansion of a declining amphibian (mountain yellow-legged frog, *Rana muscosa*)." *Biological Conservation* 135(1): 11--20. 
 
 # PRESENTATIONS
 
 **2016. Peek, R., S. Yarnell, D. Waetjen, D. Weixelman.** "Using and Updating the UC Sierra Nevada Meadows Data Clearinghouse: Leveraging Remote Sensing and Field Data to Assess Resiliency." Natural Areas Conference, Davis 18--20 Oct.
 
-**2016. Peek, R., H. Dahlke, S. Yarnell.** "Linking Water Source Signatures with Native Amphibian Breeding Timing in a Northern Sierra Nevada Watershed." Society for Freshwater Science Annual Meeting, Sacramento 21--26 May.
+**2016. Peek, R., H. Dahlke, and S. Yarnell.** "Linking Water Source Signatures with Native Amphibian Breeding Timing in a Northern Sierra Nevada Watershed." Society for Freshwater Science Annual Meeting, Sacramento 21--26 May.
 
-**2014. Viers, J. H. and R. A. Peek.** "Hydroclimatic Vulnerability Assessment of Sierra Nevada Montane Meadows." Abstract 14639, Joint Aquatic Sciences Meeting, Portland, OR, 16--23 May. 
+**2014. Viers, J.H. and R.A. Peek.** "Hydroclimatic Vulnerability Assessment of Sierra Nevada Montane Meadows." Abstract 14639, Joint Aquatic Sciences Meeting, Portland, OR, 16--23 May. 
 
-**2013. Yarnell, S. M. and R.A. Peek.** "Management of the Spring Snowmelt Recession in Regulated Systems." Abstract EP54A-03, Fall Meeting, AGU, San Francisco, CA, 3--7 Dec.
+**2013. Yarnell, S.M. and R.A. Peek.** "Management of the Spring Snowmelt Recession in Regulated Systems." Abstract EP54A-03, Fall Meeting, AGU, San Francisco, CA, 3--7 Dec.
 
-**2013. Peek. R. A. and S. M. Yarnell.**  "Science Informing Monitoring."  Invited Speaker. Sacramento River Watershed Program Watershed Management Workshop.  Santa Cruz, CA.  September, 2013.
+**2013. Peek, R.A. and S.M. Yarnell.**  "Science Informing Monitoring."  Invited Speaker. Sacramento River Watershed Program Watershed Management Workshop.  Santa Cruz, CA.  September, 2013.
 
-**2013. Null, S. E., M. Akhbari, S.T. Ligare, D.E. Rheinheimer, R.A. Peek, S.M. Yarnell, J.H. Viers.**  "Modeling climate change effects on stream temperatures in regulated rivers."  Abstract GC23C-0951, Fall Meeting, AGU, San Francisco, CA, 3--7 Dec.
+**2013. Null, S.E., M. Akhbari, S.T. Ligare, D.E. Rheinheimer, R.A. Peek, S.M. Yarnell, J.H. Viers.**  "Modeling climate change effects on stream temperatures in regulated rivers."  Abstract GC23C-0951, Fall Meeting, AGU, San Francisco, CA, 3--7 Dec.
 
 **2013. Rheinheimer, D.E., M. Akhbari, R.A. Peek, S.M. Yarnell, S.E. Null, J.H. Viers.**  "Incorporating climate change in flow regime alteration studies in hydropower licensing." Abstract H52G-04, Fall Meeting, AGU, San Francisco, CA, 3--7 Dec.
 
-**2013. Peek, R. A. and S. M. Yarnell.** "Plasticity of Breeding in Foothill Yellow-legged Frogs (*Rana boylii*) Relating to the Spring Snowmelt Recession in the Sierra Nevada." Invited Speaker. Amphibian Population Task Force, Arcata, CA, Jan. 
+**2013. Peek, R.A. and S.M. Yarnell.** "Plasticity of Breeding in Foothill Yellow-legged Frogs (*Rana boylii*) Relating to the Spring Snowmelt Recession in the Sierra Nevada." Invited Speaker. Amphibian Population Task Force, Arcata, CA, Jan. 
 
 **2013. Peek, R.A., S.M. Yarnell and J.H. Viers.** "Management of the Spring Snowmelt Recession. Inter-agency workshop on flow management in the Yuba watershed." Coordinated by Yuba County Water Agency and US Forest Service, 10 June.
 
@@ -138,7 +138,7 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 
 **2012. Peek, R., J. Viers, and S. Yarnell.** "Using sensitive montane species as indicators of hydroclimatic change in meadow ecosystems of the Sierra Nevada, California." Invited Speaker. Abstract GC11A-0972, Fall Meeting, AGU, San Francisco, CA, 2--7 Dec.
 
-**2011. Peek, R. A. and J. Dever.** "Landscape genetics of foothill yellow-legged frogs (*Rana boylii*) in regulated and unregulated watersheds: assessing genetic fragmentation and habitat connectivity." Invited Speaker. Amphibian Population Task Force, Yosemite National Park, Yosemite Valley, CA, Jan.
+**2011. Peek, R.A. and J. Dever.** "Landscape genetics of foothill yellow-legged frogs (*Rana boylii*) in regulated and unregulated watersheds: assessing genetic fragmentation and habitat connectivity." Invited Speaker. Amphibian Population Task Force, Yosemite National Park, Yosemite Valley, CA, Jan.
 
 **2011. Shepley, H., R. Peek, C. Champe, and A. Herman.** "Evaluating Potential Habitat and Temperature Limiting Factors for Foothill Yellow-Legged Frogs (*Rana boylii*) in the McCloud River Downstream of McCloud Dam." Stillwater Sciences and PG&E. Amphibian Population Task Force, Yosemite National Park, Yosemite Valley, CA, Jan.
 
@@ -146,7 +146,7 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 
 **2010. Peek, R. and J. Dever.** "Landscape genetics of foothill yellow-legged frogs (*Rana boylii*) in regulated and unregulated watersheds: assessing genetic fragmentation and habitat connectivity." Invited Speaker. Bay Area Conservation Biology Symposium, San Francisco State University, CA, Dec.
 
-**2009. Orr, B. K., C. S. Riebe, and R. A. Peek.** "Linking biological responses to river processes: a focal species approach to restoration and management of the Sacramento River." National Conference on Ecosystem Restoration, Los Angeles, California, 20--24 Jul.
+**2009. Orr, B.K., C.S. Riebe, and R.A. Peek.** "Linking biological responses to river processes: a focal species approach to restoration and management of the Sacramento River." National Conference on Ecosystem Restoration, Los Angeles, California, 20--24 Jul.
 
 **2006. Peek, R. and S. Khandwala.** "*Rana boylii* Plasticity and Management Under Dam-Controlled Flows in the Northern West-Slope Sierra Nevada." Stillwater Sciences. Invited Speaker. Declining Amphibian Populations Task Force, Arcata, CA, 2006, Jan.
 
@@ -154,7 +154,7 @@ Knapp, R. A., D.M. Boiano, V.T. Vredenburg. 2007. "Removal of nonnative fish res
 
 “The Aggie Brickyard.” Co-Founder & Design Editor,  2015--present.  
 
-> http://egsa.ucdavis.edu/blog/2016-06-16-second-volume-of-the-aggie-brickyard-is-published/
+> https://aggiebrickyard.github.io
 
 "Nature's Confluence Blog" Contributing Writer, 2015--present.
 
