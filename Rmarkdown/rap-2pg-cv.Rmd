@@ -50,7 +50,7 @@ urlcolor: blue
 
 *Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6
 
-> Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) of the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://winterwang.github.io/Epi_exercise/slides.html#/)
+> Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://winterwang.github.io/Epi_exercise/slides.html#/)
 
 *Lecturer for 3rd year undergraduate students (on schedule)* \hfill 2017.4
 
@@ -84,14 +84,23 @@ urlcolor: blue
 
 13. Kikuchi, N., Nishiyama, T., Sawada, T., **\*Wang, C.**, Lin, Y., Watanabe, Y., *et al.* 2017. Perceived Stress and Colorectal Cancer Incidence: The Japan Collaborative Cohort Study. **Sci Rep** 7, 40363. doi:10.1038/srep40363
 
+14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** [in press] 
 
+15. Okuda, M., Mabe, K., Lin, Y., **\*Wang, C.**, Taniguchi, Y., *et al.* 2017. Rapid urine antibody test for Helicobacter pylori infection in adolescents. **Pediatr Int** [in press]
 
+#
+#
 # PRESENTATIONS
 
 **2011**  
 
 **\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://winterwang.github.io/files/2011_Hangzhou_C3.pdf)
-   
+
+**2012**
+
+**\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://winterwang.github.io/files/2012_JEA_abstract.pdf)
+
+
 **2013**
 
 **\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://winterwang.github.io/files/Seaweed_thyroid.pdf) [in Japanese]
@@ -131,13 +140,6 @@ Recipient of scholarship from **Otsuka Toshimi Scholarship Foundation** \hfill 2
   
 # REFERENCES
 
-  - Hiroshi Yatsuya, M.D.,Ph.D. 
-   
-    Professor of Department of Public Health, Fujita Health University School of Medicine 
-    
-    1-98 Dengakugakubo, Kutsukake-cho, Toyoake, Aichi, 470-1192, JAPAN 
-    
-    Phone: +81-562-93-2453 Fax: +81-562-93-3079 E-mail:yatsuya@fujita-hu.ac.jp 
   - Takeshi Nishiyama, M.D., D.P.H., Ph.D. 
  
     Associate Professor, Department of Public Health, Aichi Medical University School of Medicine
