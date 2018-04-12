@@ -8,14 +8,14 @@ geometry: margin=1in
 title: "CV"
 author: Chaochen Wang
 
-jobtitle: "Assistant Professor, Department of Public Health, Aichi Medical University School of Medicine"
-address: "1-1 Yazakokarimata, Nagakute, Aichi, 480-1195, JAPAN"
+jobtitle: "MSc student, Medical Statisitics, London School of Hygiene & Tropical Medicine"
+address: "Keppel Street, London WC1E 7HT"
 fontawesome: yes
-email: ou.choushin.855@mail.aichi-med-u.ac.jp
+email: chaochen.wang1@student.lshtm.ac.uk
 #github: winterwang 
-phone: "+81 561 62 3311 ext. 12389"
-web: winterwang.github.io
-#updated: yes
+phone: "+44 78 0272 8971"
+web: wangcc.me
+updated: yes
 
 keywords: RMarkdown, academic CV, template
 
@@ -28,8 +28,12 @@ urlcolor: blue
 
 # EDUCATION
 
+**London School of Hygiene & Tropical Medicine**, Master of Medical Statistics [expected] \hfill 2018.9
+
 **Nagoya University Graduate School of Medicine**, Doctor of Philosophy (Medical Science) \hfill  2016.3  
+
 **Nagoya University Graduate School of Medicine**, Master of Medical Science \hfill 2013.3  
+
 **Shanghai Jiaotong Univeristy**, B.S. Nutrition Science \hfill 2010.7  
 
 # EMPLOYMENT
@@ -52,9 +56,9 @@ urlcolor: blue
 
 > Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://winterwang.github.io/Epi_exercise/slides.html#/)
 
-*Lecturer for 3rd year undergraduate students (on schedule)* \hfill 2017.4
+*Lecturer for 3rd year undergraduate students* \hfill 2017.4
 
-> I will give 3rd students a lecture on Nutritional Epidemiology.
+> I gave 3rd students a lecture on Nutritional Epidemiology.
   
 # PUBLICATIONS
 
@@ -84,12 +88,16 @@ urlcolor: blue
 
 13. Kikuchi, N., Nishiyama, T., Sawada, T., **\*Wang, C.**, Lin, Y., Watanabe, Y., *et al.* 2017. Perceived Stress and Colorectal Cancer Incidence: The Japan Collaborative Cohort Study. **Sci Rep** 7, 40363. doi:10.1038/srep40363
 
-14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** [in press] 
+14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** 29, 278–287. https://doi.org/10.1177/1010539517704042 
 
-15. Okuda, M., Mabe, K., Lin, Y., **\*Wang, C.**, Taniguchi, Y., *et al.* 2017. Rapid urine antibody test for Helicobacter pylori infection in adolescents. **Pediatr Int** [in press]
+15. Okuda, M., Mabe, K., Lin, Y., **\*Wang, C.**, Taniguchi, Y., *et al.* 2017. Rapid urine antibody test for Helicobacter pylori infection in adolescents. **Pediatr Int** 59, 798–802. https://doi.org/10.1111/ped.13286
 
-#
-#
+16. **\*Wang, C.**, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N., Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of *H. pylori* infection in Japan (1908–2003): a systematic review and meta-regression analysis of 170,752 individuals.  **Sci Rep** 7, 15491. doi:10.1038/s41598-017-15490-7 
+
+
+
+
+
 # PRESENTATIONS
 
 **2011**  
@@ -115,7 +123,7 @@ urlcolor: blue
 
 **\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://winterwang.github.io/metronidazole)
 
-**2017 on schedule**
+**2017**
 
 **\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August.
 
@@ -137,17 +145,3 @@ Recipient of scholarship from **Otsuka Toshimi Scholarship Foundation** \hfill 2
   - Chinese Hokkien: Native Speaker
   - English: Fluent (IELTS overall: 8; L 8.5, R 8.5, W 7, S 7) - 2017.1.7
   - Japanese: Advanced (Japanese Language Proficiency Level 1)
-  
-# REFERENCES
-
-  - Takeshi Nishiyama, M.D., D.P.H., Ph.D. 
- 
-    Associate Professor, Department of Public Health, Aichi Medical University School of Medicine
-    
-    1-1 Yazakokarimata, Nagakute, Aichi, 480-1195, JAPAN
-    
-    Phone: +81-561-62-3311 ext. 12317 Fax: +81-561-62-5270 E-mail:p-gen@umin.ac.jp
-    
-   
-
- 
