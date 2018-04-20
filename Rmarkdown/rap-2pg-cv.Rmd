@@ -8,11 +8,11 @@ geometry: margin=1in
 title: "CV"
 author: Chaochen Wang
 
-jobtitle: "MSc student, Medical Statisitics, London School of Hygiene & Tropical Medicine"
+jobtitle: "Medical Statisitics, London School of Hygiene & Tropical Medicine"
 address: "Keppel Street, London WC1E 7HT"
 fontawesome: yes
-email: chaochen.wang1@student.lshtm.ac.uk
-#github: winterwang 
+email: abelardccwang@gmail.com
+github: winterwang 
 phone: "+44 78 0272 8971"
 web: wangcc.me
 updated: yes
@@ -54,11 +54,11 @@ urlcolor: blue
 
 *Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6
 
-> Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://winterwang.github.io/Epi_exercise/slides.html#/)
+> Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://wangcc.me/Epi_exercise/slides.html#/)
 
 *Lecturer for 3rd year undergraduate students* \hfill 2017.4
 
-> I gave 3rd students a lecture on Nutritional Epidemiology.
+> I gave 3rd students a lecture on Nutritional Epidemiology. (http://wangcc.me/slides417/)
   
 # PUBLICATIONS
 
@@ -102,26 +102,26 @@ urlcolor: blue
 
 **2011**  
 
-**\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://winterwang.github.io/files/2011_Hangzhou_C3.pdf)
+**\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://wangcc.me/files/2011_Hangzhou_C3.pdf)
 
 **2012**
 
-**\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://winterwang.github.io/files/2012_JEA_abstract.pdf)
+**\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://wangcc.me/files/2012_JEA_abstract.pdf)
 
 
 **2013**
 
-**\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://winterwang.github.io/files/Seaweed_thyroid.pdf) [in Japanese]
+**\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://wangcc.me/files/Seaweed_thyroid.pdf) [in Japanese]
 
 **2014**
 
-**\*Wang, C.**, *et al.* "Associations of parental history of diabetes mellitus with the offspring's incidence is modified by offspring's body weight, findings from a Japanese worksite-based cohort", The 20th IEA World Congress of Epidemiology, Anchorage 17--21 August. (http://winterwang.github.io/files/2014_IEA.pdf)
+**\*Wang, C.**, *et al.* "Associations of parental history of diabetes mellitus with the offspring's incidence is modified by offspring's body weight, findings from a Japanese worksite-based cohort", The 20th IEA World Congress of Epidemiology, Anchorage 17--21 August. (http://wangcc.me/files/2014_IEA.pdf)
 
 **2016** 
 
 **\*Wang, C.** "Assessment of the rapid urine antibody test for *Helicobacter pylori* infection in adolescents" Annual Team Meeting of Research for the Prevention of Gastric Cancer in Japan, Sapporo 15 January. (http://rpubs.com/winterwang/sapporo) [in Japanese]
 
-**\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://winterwang.github.io/metronidazole)
+**\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://wangcc.me/metronidazole)
 
 **2017**
 
