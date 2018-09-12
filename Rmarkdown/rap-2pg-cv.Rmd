@@ -8,12 +8,12 @@ geometry: margin=1in
 title: "CV"
 author: Chaochen Wang
 
-jobtitle: "Medical Statisitics, London School of Hygiene & Tropical Medicine"
-address: "Keppel Street, London WC1E 7HT"
+jobtitle: "Assistant Professor, Department of Public Health, Aichi Medical University"
+address: "1-1 Yazakokarimata, Nagakute-shi, Aichi, 480-1195, Japan"
 fontawesome: yes
-email: abelardccwang@gmail.com
-github: winterwang 
-phone: "+44 78 0272 8971"
+email: chaochen@wangcc.me
+# github: winterwang 
+phone: "+81 561-62-3311"
 web: wangcc.me
 updated: yes
 
@@ -28,7 +28,7 @@ urlcolor: blue
 
 # EDUCATION
 
-**London School of Hygiene & Tropical Medicine**, Master of Medical Statistics [expected] \hfill 2018.9
+**London School of Hygiene & Tropical Medicine**, Master of Medical Statistics \hfill 2018.9
 
 **Nagoya University Graduate School of Medicine**, Doctor of Philosophy (Medical Science) \hfill  2016.3  
 
@@ -50,16 +50,16 @@ urlcolor: blue
 
  > Research Assistant \hfill 2013.4--2015.3
 
-# TEACHING
+<!-- # TEACHING -->
 
-*Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6
+<!-- *Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6 -->
 
-> Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://wangcc.me/Epi_exercise/slides.html#/)
+<!-- > Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://wangcc.me/Epi_exercise/slides.html#/) -->
 
-*Lecturer for 3rd year undergraduate students* \hfill 2017.4
+<!-- *Lecturer for 3rd year undergraduate students* \hfill 2017.4 -->
 
-> I gave 3rd students a lecture on Nutritional Epidemiology. (http://wangcc.me/slides417/)
-  
+<!-- > I gave 3rd students a lecture on Nutritional Epidemiology. (http://wangcc.me/slides417/) -->
+
 # PUBLICATIONS
 
 1. **\*Wang, C.**, Yatsuya, H., Tamakoshi, K., Uemura, M., Li, Y., *et al.* 2013. Positive association between high-sensitivity C-reactive protein and incidence of type 2 diabetes mellitus in Japanese workers: 6-year follow-up. **Diabetes Metab Res Rev** 29, 398–405. doi:10.1002/dmrr.2406
