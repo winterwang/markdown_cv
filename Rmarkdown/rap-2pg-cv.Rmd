@@ -13,7 +13,7 @@ address: "1-1 Yazakokarimata, Nagakute-shi, Aichi, 480-1195, Japan"
 fontawesome: yes
 email: chaochen@wangcc.me
 # github: winterwang 
-phone: "+81 561-62-3311"
+phone: "+81 90-6592-0459"
 web: wangcc.me
 updated: yes
 
@@ -94,6 +94,7 @@ urlcolor: blue
 
 16. **\*Wang, C.**, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N., Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of *H. pylori* infection in Japan (1908–2003): a systematic review and meta-regression analysis of 170,752 individuals.  **Sci Rep** 7, 15491. doi:10.1038/s41598-017-15490-7 
 
+17. Nakatochi, M., Lin, Y., Ito, H., Hara, K., Kinoshita, F., Kobayashi, Y., Ishii, H., Ozaka, M., Sasaki, T., Sasahira, N., Morimoto, M., Kobayashi, S., Ueno, M., Ohkawa, S., Egawa, N., Kuruma, S., Mori, M., Nakao, H., **\*Wang, C.**, Nishiyama, T., Kawaguchi, T., Takahashi, M., Matsuda, F., Kikuchi, S., Matsuo, K., 2018. Prediction model for pancreatic cancer risk in the general Japanese population. **PLOS ONE** 13, e0203386. https://doi.org/10.1371/journal.pone.0203386
 
 
 
@@ -126,6 +127,11 @@ urlcolor: blue
 **2017**
 
 **\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August.
+
+**2018-scheduled**
+
+**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16)" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30--1 February.
+
 
 
 # AWARDS & SHOLARSHIPS
