@@ -28,7 +28,7 @@ urlcolor: blue
 
 # EDUCATION
 
-**London School of Hygiene & Tropical Medicine**, Master of Medical Statistics \hfill 2018.9
+**London School of Hygiene & Tropical Medicine**, MSc of Medical Statistics, Distinction Degree \hfill 2018.9
 
 **Nagoya University Graduate School of Medicine**, Doctor of Philosophy (Medical Science) \hfill  2016.3  
 
