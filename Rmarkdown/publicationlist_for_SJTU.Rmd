@@ -1,0 +1,147 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "Publication/Presentation List"
+author: Chaochen Wang
+
+jobtitle: "Assistant Professor, Department of Public Health, Aichi Medical University"
+address: "1-1 Yazakokarimata, Nagakute-shi, Aichi, 480-1195, Japan"
+fontawesome: yes
+email: chaochen@wangcc.me
+# github: winterwang 
+phone: "+81 90-6592-0459"
+web: wangcc.me
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+<!-- # EDUCATION -->
+
+<!-- **London School of Hygiene & Tropical Medicine**, MSc of Medical Statistics, Distinction Degree \hfill 2018.9 -->
+
+<!-- **Nagoya University Graduate School of Medicine**, Doctor of Philosophy (Medical Science) \hfill  2016.3   -->
+
+<!-- **Nagoya University Graduate School of Medicine**, Master of Medical Science \hfill 2013.3   -->
+
+<!-- **Shanghai Jiaotong Univeristy**, B.S. Nutrition Science \hfill 2010.7   -->
+
+<!-- # EMPLOYMENT -->
+
+<!-- **Department of Public Health, Aichi Medical University School of Medicine:** -->
+
+<!--  > Assistant Professor \hfill 2015.4--present -->
+
+<!-- **Department of Public Health, Fujita Health University School of Medicine:** -->
+
+<!--  > Research Assistant \hfill 2013.4--2015.3 -->
+
+<!-- **Department of Public Health and Health Systems, Nagoya University Graduate School of Medicine** -->
+
+<!--  > Research Assistant \hfill 2013.4--2015.3 -->
+
+<!-- # TEACHING -->
+
+<!-- *Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6 -->
+
+<!-- > Through small group seminars and discussions, I teach very basic knowledge of statistics, epidemiology, and methods of literature retrival (PubMed, Web of Science etc.). I am also a tutor during the social medical practical training (mainly about evidence based medicine, EBM) for the undergraduate students. (http://rpubs.com/winterwang/introduction) (http://wangcc.me/Epi_exercise/slides.html#/) -->
+
+<!-- *Lecturer for 3rd year undergraduate students* \hfill 2017.4 -->
+
+<!-- > I gave 3rd students a lecture on Nutritional Epidemiology. (http://wangcc.me/slides417/) -->
+
+# PUBLICATIONS
+
+1. **\*Wang, C.**, Yatsuya, H., Tamakoshi, K., Uemura, M., Li, Y., *et al.* 2013. Positive association between high-sensitivity C-reactive protein and incidence of type 2 diabetes mellitus in Japanese workers: 6-year follow-up. **Diabetes Metab Res Rev** 29, 398–405. doi:10.1002/dmrr.2406
+
+2. Uemura, M, Yatsuya, H., Tamakoshi, K., Li, Y., **\*Wang, C.**, *et al.* 2014. Association between five dietary health metrics of the American Heart Association and results of health checkups in a cross-sectional study of Japanese workers. **J J Cardiol Dis Prev** 49, 11. [Article in Japanese]
+
+3. Yatsuya, H., Li, Y., Hilawe, E.H., Ota, A., **\*Wang, C.**, *et al.* 2014. Global trend in overweight and obesity and its association with cardiovascular disease incidence. **Circ J** 78, 2807–2818. doi:10.1253/circj.CJ-14-0850
+
+4. Yatsuya, H., Nihashi, T., Li, Y., Hotta, Y., Matsushita, K., Muramatsu, T., Otsuka, R., Matsunaga, M., Yamashita, K., **\*Wang, C.**, *et al.* 2014. Independent association of liver fat accumulation with insulin resistance. **Obes Res Clin Pract** 8, e350-355. doi:10.1016/j.orcp.2013.08.002
+
+5. Uemura, M., Yatsuya, H., Hilawe, E.H., Li, Y., **\*Wang, C.**, *et al.* 2015. Breakfast skipping is positively associated with incidence of type 2 diabetes mellitus: evidence from the Aichi workers’ cohort study. **J Epidemiol** 25, 351–358. doi:10.2188/jea.JE20140109
+
+6. **\*Wang, C.**, Yatsuya, H., Tamakoshi, K., Iso, H., Tamakoshi, A., 2015. Milk drinking and mortality: findings from the Japan collaborative cohort study. **J Epidemiol** 25, 66–73. doi:10.2188/jea.JE20140081
+
+7. **\*Wang, C.**, Yatsuya, H., Tamakoshi, K., Toyoshima, H., Wada, K., *et al.* 2015. Association between parental history of diabetes and the incidence of type 2 diabetes mellitus differs according to the sex of the parent and offspring’s body weight: A finding from a Japanese worksite-based cohort study. **Prev Med** 81, 49–53. doi:10.1016/j.ypmed.2015.07.021
+
+8. Hilawe, E.H., Yatsuya, H., Li, Y., Uemura, M., **\*Wang, C.**, *et al.* 2015. Smoking and Diabetes: Is the Association Mediated by Adiponectin, Leptin, or C-reactive Protein? **J Epidemiol** 25, 99–109. doi:10.2188/jea.JE20140055
+
+9. Sawada, T., Nishiyama, T., Kikuchi, N., **\*Wang, C.**, *et al.* 2016. The influence of personality and perceived stress on the development of breast cancer: 20-year follow-up of 29,098 Japanese women. **Sci Rep** 6, 32559. doi:10.1038/srep32559
+
+10. **\*Wang, C.**, Yatsuya, H., Li, Y., Ota, A., Tamakoshi, K., *et al.* 2016. Prospective study of seaweed consumption and thyroid cancer incidence in women: the Japan collaborative cohort study. **Eur J Cancer Prev** 25, 239–245. doi:10.1097/CEJ.0000000000000168
+
+11. Lin, Y., Totsuka, Y., Shan, B., **\*Wang, C.**, Wei, W., *et al.* 2016. Esophageal cancer in high-risk areas of China: research progress and challenges. **Ann Epidemiol** doi:10.1016/j.annepidem.2016.11.004
+
+12. Hilawe, E.H., Chiang, C., Yatsuya, H., **\*Wang, C.**, Ikerdeu, E., *et al.* 2016. Prevalence and predictors of prediabetes and diabetes among adults in Palau: population-based national STEPS survey. **Nagoya J Med Sci** 78, 475-483. doi:10.18999/nagjms.78.4.475
+
+13. Kikuchi, N., Nishiyama, T., Sawada, T., **\*Wang, C.**, Lin, Y., Watanabe, Y., *et al.* 2017. Perceived Stress and Colorectal Cancer Incidence: The Japan Collaborative Cohort Study. **Sci Rep** 7, 40363. doi:10.1038/srep40363
+
+14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** 29, 278–287. https://doi.org/10.1177/1010539517704042
+
+15. Okuda, M., Mabe, K., Lin, Y., **\*Wang, C.**, Taniguchi, Y., *et al.* 2017. Rapid urine antibody test for Helicobacter pylori infection in adolescents. **Pediatr Int** 59, 798–802. https://doi.org/10.1111/ped.13286
+
+13. Matsunaga, M., Yatsuya, H., Iso, H., Yamashita, K., Li, Y., Yamagishi, K., Tanabe, N., Wada, Y., **\*Wang, C.**, Ota, A., *et al.* 2017. Similarities and differences between coronary heart disease and stroke in the associations with cardiovascular risk factors: The Japan Collaborative Cohort Study. **Atherosclerosis** 261, 124-130. https://doi.org/10.1016/j.atherosclerosis.2017.03.003
+
+16. **\*Wang, C.**, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N., Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of *H. pylori* infection in Japan (1908–2003): a systematic review and meta-regression analysis of 170,752 individuals.  **Sci Rep** 7, 15491. doi:10.1038/s41598-017-15490-7
+
+17. Nakatochi, M., Lin, Y., Ito, H., Hara, K., Kinoshita, F., Kobayashi, Y., Ishii, H., Ozaka, M., Sasaki, T., Sasahira, N., Morimoto, M., Kobayashi, S., Ueno, M., Ohkawa, S., Egawa, N., Kuruma, S., Mori, M., Nakao, H., **\*Wang, C.**, Nishiyama, T., Kawaguchi, T., Takahashi, M., Matsuda, F., Kikuchi, S., Matsuo, K., 2018. Prediction model for pancreatic cancer risk in the general Japanese population. **PLOS ONE** 13, e0203386. https://doi.org/10.1371/journal.pone.0203386
+
+18. Nishiyama, T., Nakatochi, M., Goto, A., Iwasaki, M., Hachiya, T., Sutoh, Y., Shimizu, A., **\*Wang, C.**, Tanaka, H., Watanabe, M., Hosono, A., Tamai, Y., Yamada, T., Yamaji, T.,*et al.* 2019. Genome-wide association meta-analysis and Mendelian randomization analysis confirm ALDH2 influencing on sleep duration in the Japanese population. **Sleep** [Article in Press] 
+
+19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. ***Helicobacter*** [Article in Press] 
+
+20. **\*Wang, C.** 2019. Medical Statistics [Book avaiable online, in Chinese]. https://wangcc.me/LSHTMlearningnote/
+
+
+# PRESENTATIONS
+
+**2011**
+
+**\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://wangcc.me/files/2011_Hangzhou_C3.pdf)
+
+**2012**
+
+**\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://wangcc.me/files/2012_JEA_abstract.pdf)
+
+
+**2013**
+
+**\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://wangcc.me/files/Seaweed_thyroid.pdf) [in Japanese]
+
+**2014**
+
+**\*Wang, C.**, *et al.* "Associations of parental history of diabetes mellitus with the offspring's incidence is modified by offspring's body weight, findings from a Japanese worksite-based cohort", The 20th IEA World Congress of Epidemiology, Anchorage 17--21 August. (http://wangcc.me/files/2014_IEA.pdf)
+
+**2016**
+
+**\*Wang, C.** "Assessment of the rapid urine antibody test for *Helicobacter pylori* infection in adolescents" Annual Team Meeting of Research for the Prevention of Gastric Cancer in Japan, Sapporo 15 January. (http://rpubs.com/winterwang/sapporo) [in Japanese]
+
+**\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://wangcc.me/metronidazole)
+
+**2017**
+
+**\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August.
+
+**2018**
+
+**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults - results from the NDNS RP (2008-16)", the Nutrition Society Winter Conference 2018, London, UK 4--5 December.
+
+**2019**
+
+**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16) updated" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30 January --1 February.
+
+
+
+
