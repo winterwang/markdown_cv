@@ -60,7 +60,18 @@ urlcolor: blue
 
 <!-- > I gave 3rd students a lecture on Nutritional Epidemiology. (http://wangcc.me/slides417/) -->
 
+# PROFESSIONAL AFFILIATIONS
+
+Member of: 
+
+- International Epidemiological Association 
+
+- Japan Epidemiological Association
+
+- The Japanese Society for *Helicobacter* Research
+
 # PUBLICATIONS
+
 
 1. **\*Wang, C.**, Yatsuya, H., Tamakoshi, K., Uemura, M., Li, Y., *et al.* 2013. Positive association between high-sensitivity C-reactive protein and incidence of type 2 diabetes mellitus in Japanese workers: 6-year follow-up. **Diabetes Metab Res Rev** 29, 398–405. doi:10.1002/dmrr.2406
 
@@ -82,22 +93,27 @@ urlcolor: blue
 
 10. **\*Wang, C.**, Yatsuya, H., Li, Y., Ota, A., Tamakoshi, K., *et al.* 2016. Prospective study of seaweed consumption and thyroid cancer incidence in women: the Japan collaborative cohort study. **Eur J Cancer Prev** 25, 239–245. doi:10.1097/CEJ.0000000000000168
 
-11. Lin, Y., Totsuka, Y., Shan, B., **\*Wang, C.**, Wei, W., *et al.* 2016. Esophageal cancer in high-risk areas of China: research progress and challenges. **Ann Epidemiol** [Article in Press] doi:10.1016/j.annepidem.2016.11.004
+11. Lin, Y., Totsuka, Y., Shan, B., **\*Wang, C.**, Wei, W., *et al.* 2016. Esophageal cancer in high-risk areas of China: research progress and challenges. **Ann Epidemiol** doi:10.1016/j.annepidem.2016.11.004
 
-12. Hilawe, E.H., Chiang, C., Yatsuya, H., **\*Wang, C.**, Ikerdeu, E., *et al.* 2016. Prevalence and predictors of prediabetes and diabetes among adults in Palau: population-based national STEPS survey. **Nagoya J Med Sci** 78, 475-483. doi:10.18999/nagjms.78.4.475 
+12. Hilawe, E.H., Chiang, C., Yatsuya, H., **\*Wang, C.**, Ikerdeu, E., *et al.* 2016. Prevalence and predictors of prediabetes and diabetes among adults in Palau: population-based national STEPS survey. **Nagoya J Med Sci** 78, 475-483. doi:10.18999/nagjms.78.4.475
 
 13. Kikuchi, N., Nishiyama, T., Sawada, T., **\*Wang, C.**, Lin, Y., Watanabe, Y., *et al.* 2017. Perceived Stress and Colorectal Cancer Incidence: The Japan Collaborative Cohort Study. **Sci Rep** 7, 40363. doi:10.1038/srep40363
 
-14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** 29, 278–287. https://doi.org/10.1177/1010539517704042 
+14. **\*Wang, C.**, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu, E., *et al.* 2017. Descriptive Epidemiology of Hypertension and its Association with Obesity: Based on the WHO STEPwise Approach to Surveillance in Palau. **Asia Pac J Public Health** 29, 278–287. https://doi.org/10.1177/1010539517704042
 
 15. Okuda, M., Mabe, K., Lin, Y., **\*Wang, C.**, Taniguchi, Y., *et al.* 2017. Rapid urine antibody test for Helicobacter pylori infection in adolescents. **Pediatr Int** 59, 798–802. https://doi.org/10.1111/ped.13286
 
-16. **\*Wang, C.**, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N., Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of *H. pylori* infection in Japan (1908–2003): a systematic review and meta-regression analysis of 170,752 individuals.  **Sci Rep** 7, 15491. doi:10.1038/s41598-017-15490-7 
+13. Matsunaga, M., Yatsuya, H., Iso, H., Yamashita, K., Li, Y., Yamagishi, K., Tanabe, N., Wada, Y., **\*Wang, C.**, Ota, A., *et al.* 2017. Similarities and differences between coronary heart disease and stroke in the associations with cardiovascular risk factors: The Japan Collaborative Cohort Study. **Atherosclerosis** 261, 124-130. https://doi.org/10.1016/j.atherosclerosis.2017.03.003
+
+16. **\*Wang, C.**, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N., Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of *H. pylori* infection in Japan (1908–2003): a systematic review and meta-regression analysis of 170,752 individuals.  **Sci Rep** 7, 15491. doi:10.1038/s41598-017-15490-7
 
 17. Nakatochi, M., Lin, Y., Ito, H., Hara, K., Kinoshita, F., Kobayashi, Y., Ishii, H., Ozaka, M., Sasaki, T., Sasahira, N., Morimoto, M., Kobayashi, S., Ueno, M., Ohkawa, S., Egawa, N., Kuruma, S., Mori, M., Nakao, H., **\*Wang, C.**, Nishiyama, T., Kawaguchi, T., Takahashi, M., Matsuda, F., Kikuchi, S., Matsuo, K., 2018. Prediction model for pancreatic cancer risk in the general Japanese population. **PLOS ONE** 13, e0203386. https://doi.org/10.1371/journal.pone.0203386
 
+18. Nishiyama, T., Nakatochi, M., Goto, A., Iwasaki, M., Hachiya, T., Sutoh, Y., Shimizu, A., **\*Wang, C.**, Tanaka, H., Watanabe, M., Hosono, A., Tamai, Y., Yamada, T., Yamaji, T.,*et al.* 2019. Genome-wide association meta-analysis and Mendelian randomization analysis confirm ALDH2 influencing on sleep duration in the Japanese population. **Sleep** [Article in Press] 
 
+19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. ***Helicobacter*** [Article in Press]
 
+20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). Proceedings of the Nutrition Society, 78(OCE1), E30. doi:10.1017/S002966511900034X
 
 # PRESENTATIONS
 
@@ -128,9 +144,13 @@ urlcolor: blue
 
 **\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August.
 
-**2018-scheduled**
+**2018**
 
-**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16)" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30--1 February.
+**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults - results from the NDNS RP (2008-16)", the Nutrition Society Winter Conference 2018, London, UK 4--5 December.
+
+**2019**
+
+**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16) updated" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30 January --1 February.
 
 
 
