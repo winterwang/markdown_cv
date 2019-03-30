@@ -50,6 +50,18 @@ urlcolor: blue
 
  > Research Assistant \hfill 2013.4--2015.3
 
+# CERTIFICATES
+
+**[Neural Networks and Deep Learning (Python)](https://www.coursera.org/account/accomplishments/certificate/GXEC87BNVR5S)**  \hfill March 30, 2019
+
+ > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. 
+
+**[Computing for Data Analysis (R)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970404~300156/pdf)** \hfill April 17, 2013
+
+ > by [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/), PhD. Department of Biostatistics,
+Johns Hopkins Bloomberg School of Public Health 
+
+
 <!-- # TEACHING -->
 
 <!-- *Instructor for 2nd and 3rd year undergraduate students* \hfill 2016.4--6 -->
@@ -69,6 +81,8 @@ Member of:
 - Japan Epidemiological Association
 
 - The Japanese Society for *Helicobacter* Research
+
+- Japanese Society of Computational Statistics
 
 # PUBLICATIONS
 
@@ -109,9 +123,9 @@ Member of:
 
 17. Nakatochi, M., Lin, Y., Ito, H., Hara, K., Kinoshita, F., Kobayashi, Y., Ishii, H., Ozaka, M., Sasaki, T., Sasahira, N., Morimoto, M., Kobayashi, S., Ueno, M., Ohkawa, S., Egawa, N., Kuruma, S., Mori, M., Nakao, H., **\*Wang, C.**, Nishiyama, T., Kawaguchi, T., Takahashi, M., Matsuda, F., Kikuchi, S., Matsuo, K., 2018. Prediction model for pancreatic cancer risk in the general Japanese population. **PLOS ONE** 13, e0203386. https://doi.org/10.1371/journal.pone.0203386
 
-18. Nishiyama, T., Nakatochi, M., Goto, A., Iwasaki, M., Hachiya, T., Sutoh, Y., Shimizu, A., **\*Wang, C.**, Tanaka, H., Watanabe, M., Hosono, A., Tamai, Y., Yamada, T., Yamaji, T.,*et al.* 2019. Genome-wide association meta-analysis and Mendelian randomization analysis confirm ALDH2 influencing on sleep duration in the Japanese population. **Sleep** [Article in Press] 
+18. Nishiyama, T., Nakatochi, M., Goto, A., Iwasaki, M., Hachiya, T., Sutoh, Y., Shimizu, A., **\*Wang, C.**, Tanaka, H., Watanabe, M., Hosono, A., Tamai, Y., Yamada, T., Yamaji, T.,*et al.* 2019. Genome-wide association meta-analysis and Mendelian randomization analysis confirm ALDH2 influencing on sleep duration in the Japanese population. **Sleep** zsz046, https://doi.org/10.1093/sleep/zsz046
 
-19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. ***Helicobacter*** [Article in Press]
+19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. **Helicobacter** 2019 Mar 15:e12575. https://doi.org/10.1111/hel.12575 
 
 20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). Proceedings of the Nutrition Society, 78(OCE1), E30. doi:10.1017/S002966511900034X
 
