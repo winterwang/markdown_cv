@@ -52,6 +52,12 @@ urlcolor: blue
 
 # CERTIFICATES
 
+**[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/MMCWAQRTWYL3)** 
+ 
+ \hfill April 12, 2019 
+
+ > by by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. 
+
 **[Neural Networks and Deep Learning (Python)](https://www.coursera.org/account/accomplishments/certificate/GXEC87BNVR5S)**  \hfill March 30, 2019
 
  > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. 
