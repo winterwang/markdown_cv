@@ -52,6 +52,15 @@ urlcolor: blue
 
 # CERTIFICATES
 
+**[Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/EDVFTCAM92AQ)** \hfill Nov 19, 2019 
+
+ > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera.
+
+**[Sequence Models](https://www.coursera.org/account/accomplishments/certificate/K86AAAJAS6DL)**  \hfill Nov 19, 2019 
+
+ > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera.
+
+
 **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/FKNCMLGT2Z8C)**
 \hfill July 31, 2019
 
@@ -138,7 +147,10 @@ Member of:
 
 19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. **Helicobacter** 2019 Mar 15:e12575. https://doi.org/10.1111/hel.12575 
 
-20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). Proceedings of the Nutrition Society, 78(OCE1), E30. doi:10.1017/S002966511900034X
+20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). **Proceedings of the Nutrition Society**, 78(OCE1), E30. doi:10.1017/S002966511900034X
+
+21. **\*Wang, C.**, Almoosawi, S. & Palla, L. (2019). Day-Time Patterns of Carbohydrate Intake in Adults by Non-Parametric Multi-Level Latent Class Analysis—Results from the UK National Diet and Nutrition Survey (2008/09--2015/16). **Nutrients**, Multidisciplinary Digital Publishing Institute, 2019, 11, 2476. https://doi.org/10.3390/nu11102476
+
 
 # PRESENTATIONS
 
