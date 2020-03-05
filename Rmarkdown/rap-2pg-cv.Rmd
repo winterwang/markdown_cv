@@ -138,7 +138,10 @@ Member of:
 
 19. Okuda, M., Lin, Y., **\*Wang, C.**, Kakiuch, T., Kikuchi S., 2019. Metronidazole for *Helicobacter* pylori eradication therapy among children and adolescents in Japan: overcoming controversies and concerns. **Helicobacter** 2019 Mar 15:e12575. https://doi.org/10.1111/hel.12575 
 
-20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). Proceedings of the Nutrition Society, 78(OCE1), E30. doi:10.1017/S002966511900034X
+20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). **Proceedings of the Nutrition Society**, 78(OCE1), E30. doi:10.1017/S002966511900034X
+
+21. **\*Wang, C.**, Almoosawi, S. & Palla, L. (2019). Day-Time Patterns of Carbohydrate Intake in Adults by Non-Parametric Multi-Level Latent Class Analysis—Results from the UK National Diet and Nutrition Survey (2008/09--2015/16). **Nutrients**, Multidisciplinary Digital Publishing Institute, 2019, 11, 2476. https://doi.org/10.3390/nu11102476
+
 
 21. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). “Day-Time Patterns of Carbohydrate Intake in Adults by Non-Parametric Multi-Level Latent Class Analysis—Results from the UK National Diet and Nutrition Survey (2008/09--2015/16),” Nutrients, vol. 11, no. 10, p. 2476. https://doi.org/10.3390/nu11102476 
 
