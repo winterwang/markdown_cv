@@ -50,27 +50,27 @@ urlcolor: blue
 
  > Research Assistant \hfill 2013.4--2015.3
 
-# CERTIFICATES
+<!-- # CERTIFICATES -->
 
-**[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/FKNCMLGT2Z8C)**
-\hfill July 31, 2019
+<!-- **[Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/FKNCMLGT2Z8C)** -->
+<!-- \hfill July 31, 2019 -->
 
- > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera.
+<!--  > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. -->
 
-**[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/MMCWAQRTWYL3)** 
- 
- \hfill April 12, 2019 
+<!-- **[Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/MMCWAQRTWYL3)**  -->
 
- > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. 
+<!--  \hfill April 12, 2019  -->
 
-**[Neural Networks and Deep Learning (Python)](https://www.coursera.org/account/accomplishments/certificate/GXEC87BNVR5S)**  \hfill March 30, 2019
+<!--  > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera.  -->
 
- > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera. 
+<!-- **[Neural Networks and Deep Learning (Python)](https://www.coursera.org/account/accomplishments/certificate/GXEC87BNVR5S)**  \hfill March 30, 2019 -->
 
-**[Computing for Data Analysis (R)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970404~300156/pdf)** \hfill April 17, 2013
+<!--  > by [Andrew Ng](https://www.andrewng.org/), Adjunct Professor of Computer Science at Stanford University, founder of deeplearning.ai on Coursera.  -->
 
- > by [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/), PhD. Department of Biostatistics,
-Johns Hopkins Bloomberg School of Public Health 
+<!-- **[Computing for Data Analysis (R)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970404~300156/pdf)** \hfill April 17, 2013 -->
+
+<!--  > by [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/), PhD. Department of Biostatistics, -->
+<!-- Johns Hopkins Bloomberg School of Public Health  -->
 
 
 <!-- # TEACHING -->
@@ -91,7 +91,7 @@ Member of:
 
 - Japan Epidemiological Association
 
-- The Japanese Society for *Helicobacter* Research
+<!-- - The Japanese Society for *Helicobacter* Research -->
 
 - Japanese Society of Computational Statistics
 
@@ -140,43 +140,49 @@ Member of:
 
 20. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008-16). Proceedings of the Nutrition Society, 78(OCE1), E30. doi:10.1017/S002966511900034X
 
-# PRESENTATIONS
-
-**2011**  
-
-**\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://wangcc.me/files/2011_Hangzhou_C3.pdf)
-
-**2012**
-
-**\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://wangcc.me/files/2012_JEA_abstract.pdf)
+21. **\*Wang, C.**, Almoosawi, S., & Palla, L. (2019). “Day-Time Patterns of Carbohydrate Intake in Adults by Non-Parametric Multi-Level Latent Class Analysis—Results from the UK National Diet and Nutrition Survey (2008/09--2015/16),” Nutrients, vol. 11, no. 10, p. 2476. https://doi.org/10.3390/nu11102476 
 
 
-**2013**
+<!-- # PRESENTATIONS -->
 
-**\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://wangcc.me/files/Seaweed_thyroid.pdf) [in Japanese]
+<!-- **2011**   -->
 
-**2014**
+<!-- **\*Wang, C.**, *et al.* "Positive association between blood C3 level and liver fat content quantified by 1H magnetic resonance spectroscopy in Japanese men" The 9th International Symposium on In Vivo Body Composition Studies, Hangzhou 21-24 May. (http://wangcc.me/files/2011_Hangzhou_C3.pdf) -->
 
-**\*Wang, C.**, *et al.* "Associations of parental history of diabetes mellitus with the offspring's incidence is modified by offspring's body weight, findings from a Japanese worksite-based cohort", The 20th IEA World Congress of Epidemiology, Anchorage 17--21 August. (http://wangcc.me/files/2014_IEA.pdf)
+<!-- **2012** -->
 
-**2016** 
+<!-- **\*Wang, C.**, *et al.* "Association between C-reactive Protein and Incidence of Type-2 Diabetes in a Japanese Worksite-based Cohort" The 22nd Annual Scientific Meeting of the Japan Epidemiological Association. (https://wangcc.me/files/2012_JEA_abstract.pdf) -->
 
-**\*Wang, C.** "Assessment of the rapid urine antibody test for *Helicobacter pylori* infection in adolescents" Annual Team Meeting of Research for the Prevention of Gastric Cancer in Japan, Sapporo 15 January. (http://rpubs.com/winterwang/sapporo) [in Japanese]
 
-**\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://wangcc.me/metronidazole)
+<!-- **2013** -->
 
-**2017**
+<!-- **\*Wang, C.**, *et al.* "Seaweed intake and the risk of thyroid cancer in women: The Japan Collaborative Cohort Study", The 72th Annual Meeting of Japanese Society of Public Health, Tsu 23-25 October. (http://wangcc.me/files/Seaweed_thyroid.pdf) [in Japanese] -->
 
-**\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August.
+<!-- **2014** -->
 
-**2018**
+<!-- **\*Wang, C.**, *et al.* "Associations of parental history of diabetes mellitus with the offspring's incidence is modified by offspring's body weight, findings from a Japanese worksite-based cohort", The 20th IEA World Congress of Epidemiology, Anchorage 17--21 August. (http://wangcc.me/files/2014_IEA.pdf) -->
 
-**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults - results from the NDNS RP (2008-16)", the Nutrition Society Winter Conference 2018, London, UK 4--5 December.
+<!-- **2016**  -->
 
-**2019**
+<!-- **\*Wang, C.** "Assessment of the rapid urine antibody test for *Helicobacter pylori* infection in adolescents" Annual Team Meeting of Research for the Prevention of Gastric Cancer in Japan, Sapporo 15 January. (http://rpubs.com/winterwang/sapporo) [in Japanese] -->
 
-**\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16) updated" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30 January --1 February.
+<!-- **\*Wang, C.**, "Metronidazole: Side effects and Safety", The 22nd Annual Meeting of the Japanese Society for *Helicobacter* Research, Beppu 24--26 June. (http://wangcc.me/metronidazole) -->
 
+<!-- **2017** -->
+
+<!-- **\*Wang, C.**, "Prevalence of *H.pylori* infection in Japan by birth cohort, from 1908 to 2003 -- a systematic review and meta-regression analysis" The 21th IEA World Congress of Epidemiology, Saitama, Japan 19--22 August. -->
+
+<!-- **2018** -->
+
+<!-- **\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults - results from the NDNS RP (2008-16)", the Nutrition Society Winter Conference 2018, London, UK 4--5 December. -->
+
+<!-- **2019** -->
+
+<!-- **\*Wang, C.**, "The day-time patterns of carbohydrate intake in the UK adults – results from the NDNS RP (2008/09-15/16) updated" The 29th Annual Scientific Meeting of the Japan Epidemiological Association, Tokyo, Japan 30 January --1 February. -->
+
+<!-- **2020** -->
+
+<!-- **\*Wang, C.**, "Associations between food groups and eating time slots by diabetes status in UK adults". The 30th Annual Scientific Meeting of the Japan Epidemiological Association, Kyoto, Japan, 21st, Feb, O-024. -->
 
 
 # AWARDS & SHOLARSHIPS
