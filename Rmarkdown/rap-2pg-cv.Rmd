@@ -8,12 +8,12 @@ geometry: margin=1in
 title: "CV"
 author: Chaochen Wang
 
-jobtitle: "Assistant Professor, Department of Public Health, Aichi Medical University"
-address: "1-1 Yazakokarimata, Nagakute-shi, Aichi, 480-1195, Japan"
+# jobtitle: ""
+# address: ""
 fontawesome: yes
 email: chaochen@wangcc.me
 # github: winterwang 
-phone: "+81 90-6592-0459"
+# phone: "+81 90-6592-0459"
 web: wangcc.me
 updated: yes
 
@@ -40,9 +40,15 @@ urlcolor: blue
 # CAREER HISTORY
 
 
+**Japan Value, Evidence and Outcomes, Japan Drug Development and Medical Affairs (JDDMA), Eli Lilly and Company Japan K.K.**
+
+ > Senior Associate  \hfill 2021.10--present
+
+
+
 **Department of Public Health, Aichi Medical University School of Medicine:**
 
- > Assistant Professor \hfill 2015.4--present
+ > Assistant Professor \hfill 2015.4--2021.9
 
 
 ## Responsibility: teaching and research
@@ -60,9 +66,10 @@ urlcolor: blue
 
 
 
+
 **Clinical Study Support:**
   
- > Part-time Researcher (8h/w) \hfill 2018.10--present
+ > Part-time Researcher (8h/w) \hfill 2018.10--2021.6
 
 
 ## Responsibility: statistical analysis, training of the analysis team
