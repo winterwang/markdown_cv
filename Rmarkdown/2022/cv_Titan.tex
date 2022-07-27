@@ -1,0 +1,378 @@
+\documentclass[10pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\itshape}
+
+
+% Make lists without bullets
+%\renewenvironment{itemize}{
+%  \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Chaochen Wang - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Chaochen Wang:  CV (Curriculum Vitae)},
+            pdfauthor={Chaochen Wang},
+            pdfkeywords={RMarkdown, academic CV, template},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+\begin{document}
+
+
+\centerline{\huge \bf Chaochen Wang}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Senior Associate}
+
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:chaochen@wangcc.me}{\nolinkurl{chaochen@wangcc.me}}} \hspace{1 mm}  \faPhone \hspace{1 mm}  +81
+90-6592-0459  \hspace{1 mm}     \faGlobe \hspace{1 mm} \href{http://wangcc.me}{\tt wangcc.me}    | \emph{Updated:} \today}
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{EDUCATION}\label{education}}
+
+\textbf{London School of Hygiene \& Tropical Medicine}, MSc of Medical
+Statistics, Distinction Degree \hfill 2018.9
+
+\textbf{Nagoya University Graduate School of Medicine}, Doctor of
+Philosophy (Medical Science) \hfill  2016.3
+
+\textbf{Nagoya University Graduate School of Medicine}, Master of
+Medical Science \hfill 2013.3
+
+\textbf{Shanghai Jiaotong Univeristy}, B.S. Nutrition Science
+\hfill 2010.7
+
+\hypertarget{career-history}{%
+\section{CAREER HISTORY}\label{career-history}}
+
+\textbf{Japan Value, Evidence and Outcomes, Japan Drug Development and
+Medical Affairs (JDD\&MA), Eli Lilly and Company Japan K.K.}
+
+\begin{quote}
+Senior Associate \hfill 2021.10--present
+\end{quote}
+
+\hypertarget{responsibility-health-technique-assessment-hta-real-world-evidence-rwe-generation.}{%
+\subsection{Responsibility: Health technique assessment (HTA), Real
+world evidence (RWE)
+generation.}\label{responsibility-health-technique-assessment-hta-real-world-evidence-rwe-generation.}}
+
+\textbf{Department of Public Health, Aichi Medical University School of
+Medicine:}
+
+\begin{quote}
+Assistant Professor \hfill 2015.4--2021.9
+\end{quote}
+
+\hypertarget{responsibility-teaching-and-research}{%
+\subsection{Responsibility: teaching and
+research}\label{responsibility-teaching-and-research}}
+
+\begin{itemize}
+\tightlist
+\item
+  Working closely with the professors and other colleagues mainly in
+  epidemiology of gastroenterological cancer
+\item
+  Responsible for statistical consulting from medical doctors in the
+  university hospital
+\item
+  Responsible for education to undergraduate medical students on
+  statistical methods used in medical researches
+\item
+  Cooperating with medical doctors in hospital university on projects
+  studying locomotive syndrome
+\end{itemize}
+
+\hypertarget{projects}{%
+\subsection{Projects:}\label{projects}}
+
+\begin{itemize}
+\tightlist
+\item
+  Data analysis using large scale cohort studies such as the Japan
+  Collaborative Cohort Study, literature meta-analysis, the UK National
+  Diet and Nutrition Survey Rolling Program data, and data provided by
+  doctors in Aichi Medical University hospital
+\item
+  All projects and publications were conducted under Linux environment
+  such as Ubuntu OS with R, STATA, and/or Python language
+\item
+  Presented in the World Congress of Epidemiology in Alaska (2014) as
+  well as in Saitama (2017) as poster presentations
+\item
+  Recent research on the day-time patterns of carbohydrate intake using
+  the UK national Diet and Nutrition Survey data was accepted as oral
+  presentation in the 13th European Nutrition Conference in Dublin,
+  Ireland 2019
+\end{itemize}
+
+\textbf{Clinical Study Support:}
+
+\begin{quote}
+Part-time Researcher (8h/w) \hfill 2018.10--2021.6
+\end{quote}
+
+\hypertarget{responsibility-statistical-analysis-training-of-the-analysis-team}{%
+\subsection{Responsibility: statistical analysis, training of the
+analysis
+team}\label{responsibility-statistical-analysis-training-of-the-analysis-team}}
+
+\begin{itemize}
+\tightlist
+\item
+  Experience in producing statistical analysis plan (SAP) for clinical
+  and observational studies; conducted detailed comparisons and results
+  calculation on cancer survival from hospital clients; performed
+  database analyses through commercial medical databases such as Medical
+  Database Vision.
+\item
+  Organizing statistical study seminars to train the team members and
+  learn the latest statistical knowledge and skills for on-going and
+  future study projects
+\end{itemize}
+
+\textbf{Real World Data Co., Ltd.:}
+
+\begin{quote}
+Sub-contracted Researcher \hfill 2021.1--2021.8
+\end{quote}
+
+\hypertarget{responsibility-statistical-analysis-medical-writing-quality-check-statistical-analysis-seminar-lecturer}{%
+\subsection{Responsibility: statistical analysis, medical writing
+quality check, statistical analysis seminar
+lecturer}\label{responsibility-statistical-analysis-medical-writing-quality-check-statistical-analysis-seminar-lecturer}}
+
+\begin{itemize}
+\tightlist
+\item
+  Experience in producing statistical analysis plan (SAP), perform
+  analysis, and result presentation for descriptive statistical analysis
+  on COVID-19 patients using large scale database that include
+  electronic medial records (EMR) and medical expenses claim.
+\item
+  Enrolled as a seminar lecturer for a commercial seminar entitled ``To
+  maximize the usage of database research - study design and statistical
+  analysis'', and responsible for the SAS practical session.
+\item
+  Providing professional medical manuscript writing quality check.
+\end{itemize}
+
+\hypertarget{publications}{%
+\section{PUBLICATIONS}\label{publications}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{*Wang, C.}, Yatsuya, H., Tamakoshi, K., Uemura, M., Li, Y.,
+  \emph{et al.} 2013. Positive association between high-sensitivity
+  C-reactive protein and incidence of type 2 diabetes mellitus in
+  Japanese workers: 6-year follow-up. \textbf{Diabetes Metab Res Rev}
+  29, 398--405.
+\end{itemize}
+
+\begin{itemize}
+\item
+  \textbf{*Wang, C.}, Yatsuya, H., Tamakoshi, K., Iso, H., Tamakoshi,
+  A., 2015. Milk drinking and mortality: findings from the Japan
+  collaborative cohort study. \textbf{J Epidemiol} 25, 66--73.
+\item
+  \textbf{*Wang, C.}, Yatsuya, H., Tamakoshi, K., Toyoshima, H., Wada,
+  K., \emph{et al.} 2015. Association between parental history of
+  diabetes and the incidence of type 2 diabetes mellitus differs
+  according to the sex of the parent and offspring's body weight: A
+  finding from a Japanese worksite-based cohort study. \textbf{Prev Med}
+  81, 49--53.
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{*Wang, C.}, Yatsuya, H., Li, Y., Ota, A., Tamakoshi, K.,
+  \emph{et al.} 2016. Prospective study of seaweed consumption and
+  thyroid cancer incidence in women: the Japan collaborative cohort
+  study. \textbf{Eur J Cancer Prev} 25, 239--245.
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{*Wang, C.}, Chiang, C., Yatsuya, H., Hilawe, E.H., Ikerdeu,
+  E., \emph{et al.} 2017. Descriptive Epidemiology of Hypertension and
+  its Association with Obesity: Based on the WHO STEPwise Approach to
+  Surveillance in Palau. \textbf{Asia Pac J Public Health} 29, 278--287.
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{*Wang, C.}, Nishiyama, T., Kikuchi, S., Inoue, M., Sawada, N.,
+  Tsugane, S., Lin, Y., 2017. Changing trends in the prevalence of
+  \emph{H. pylori} infection in Japan (1908--2003): a systematic review
+  and meta-regression analysis of 170,752 individuals. \textbf{Sci Rep}
+  7, 15491.
+\end{itemize}
+
+\begin{itemize}
+\item
+  \textbf{*Wang, C.}, Almoosawi, S., \& Palla, L., 2019. ``Day-Time
+  Patterns of Carbohydrate Intake in Adults by Non-Parametric
+  Multi-Level Latent Class Analysis---Results from the UK National Diet
+  and Nutrition Survey (2008/09--2015/16),'' \textbf{Nutrients},
+  vol.~11, no. 10, p.~2476.
+\item
+  \textbf{*Wang, C.}, Ikemoto, T., Hirasawa, A., Arai, Y.-C., Kikuchi,
+  S. and Deie, M., 2020. Assessment of locomotive syndrome among older
+  individuals: a confirmatory factor analysis of the 25-question
+  Geriatric Locomotive Function Scale. \textbf{PeerJ}, 8, e9026.
+\item
+  \textbf{*Wang, C.}, Yatsuya, H., Lin, Y., Sasakabe, T., Kawai, S.,
+  Kikuchi, S., Iso, H. and Tamakoshi, A., 2020. Milk Intake and Stroke
+  Mortality in the Japan Collaborative Cohort Study---A Bayesian
+  Survival Analysis. \textbf{Nutrients}, 12, 2743.
+\item
+  Kawai, S., \textbf{*Wang, C.}, Lin, Y., Sasakabe, T., Okuda, M., \&
+  Kikuchi, S. 2022. Lifetime incidence risk for gastric cancer in the
+  Helicobacter pylori‐infected and uninfected population in Japan: A
+  Monte Carlo simulation study. \textbf{International Journal of
+  Cancer}, 150(1), 18-27.
+\item
+  Lin, Y., \textbf{*Wang, C.}, Kikuchi, S., Akita, T., Tanaka, J., Abe,
+  S. K., \ldots{} \& Cancer PAF Japan Collaborators. 2021. Burden of
+  cancer attributable to infection in Japan in 2015. GHM open, 1(2),
+  63-69.
+\item
+  \textbf{*Wang, C.}, Almoosawi, S., \& Palla, L. 2021. Relationships
+  Between Food Groups and Eating Time Slots According to Diabetes Status
+  in Adults From the UK National Diet and Nutrition Survey (2008--2017).
+  Frontiers in nutrition, 8.
+\item
+  Li Y, Yatsuya H, \textbf{*Wang, C.}, Uemura M, Matsunaga M, He Y,
+  Khine M, Ota A. 2022. Dietary Patterns Derived from Reduced Rank
+  Regression Are Associated with the 5-Year Occurrence of Metabolic
+  Syndrome: Aichi Workers' Cohort Study. Nutrients; 14(15):3019
+\end{itemize}
+
+\hypertarget{awards-sholarships}{%
+\section{AWARDS \& SHOLARSHIPS}\label{awards-sholarships}}
+
+\textbf{Outstanding Graduates of Shanghai Jiaotong University}
+\hfill 2010
+
+Recipient of \textbf{Ajinomoto Scholarship} for outstanding students
+from overseas \hfill 2011-2012
+
+\textbf{Young Investigator's Award}, The 48th Annual Meeting of the
+Japanese Society of Cardiovascular Disease Prevention, Tokyo
+\hfill  2012
+
+Recipient of scholarship from \textbf{Otsuka Toshimi Scholarship
+Foundation} \hfill 2013-2014
+
+\textbf{Best Reviewer} of Journal of Epidemiology \hfill 2021.1.28
+
+\hypertarget{languages}{%
+\section{LANGUAGES}\label{languages}}
+
+\begin{itemize}
+\tightlist
+\item
+  Chinese Mandarin: Native Speaker
+\item
+  Chinese Hokkien: Native Speaker
+\item
+  English: Fluent (IELTS overall: 8; L 8.5, R 8.5, W 7, S 7) - 2017.1.7
+\item
+  Japanese: Advanced (Japanese Language Proficiency Level 1)
+\end{itemize}
+
+\end{document}
