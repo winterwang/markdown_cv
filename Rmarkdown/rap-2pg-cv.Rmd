@@ -9,7 +9,7 @@ title: "CV"
 author: Chaochen Wang
 
 jobtitle: "Principal Scientist"
-address: "https://www.lilly.com/jp/careers/interview/jddma/wang"
+# address: "https://www.wangcc.me"
 fontawesome: yes
 email: chaochen.wang1@alumni.lshtm.ac.uk
 # github: winterwang 
