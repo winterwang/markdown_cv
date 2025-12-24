@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.24)  24 DEC 2025 21:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.24)  24 DEC 2025 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**rap-2pg-cv.tex
-(./rap-2pg-cv.tex
+**rap-1pg-cv.tex
+(./rap-1pg-cv.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
 (c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -301,8 +301,8 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
-) (./rap-2pg-cv.aux)
-\openout1 = `rap-2pg-cv.aux'.
+) (./rap-1pg-cv.aux)
+\openout1 = `rap-1pg-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
 LaTeX Font Info:    ... okay on input line 98.
@@ -368,9 +368,9 @@ File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 98.
-(./rap-2pg-cv.out) (./rap-2pg-cv.out)
+(./rap-1pg-cv.out) (./rap-1pg-cv.out)
 \@outlinefile=\write3
-\openout3 = `rap-2pg-cv.out'.
+\openout3 = `rap-1pg-cv.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 112.
 (c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
@@ -408,44 +408,36 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 112.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 112.
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 157.
-(c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
-File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-)
-Underfull \hbox (badness 1448) in paragraph at lines 191--192
-[]\T1/pplj/b/n/10 Japan Value, Ev-i-dence and Out-comes (VEO), Japan Drug De-vel-op-ment and Med-i-cal Af-fairs
- []
 
-
-Underfull \hbox (badness 1448) in paragraph at lines 198--199
+Underfull \hbox (badness 1448) in paragraph at lines 150--151
 []\T1/pplj/b/n/10 Japan Value, Ev-i-dence and Out-comes (VEO), Japan Drug De-vel-op-ment and Med-i-cal Af-fairs
  []
 
 [1
 
-{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3] 
+{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./rap-2pg-cv.aux)
+(./rap-1pg-cv.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-14>
  ***********
-Package rerunfilecheck Info: File `rap-2pg-cv.out' has not changed.
-(rerunfilecheck)             Checksum: 65B1F209E2E59807D259120FB448579B;1866.
+Package rerunfilecheck Info: File `rap-1pg-cv.out' has not changed.
+(rerunfilecheck)             Checksum: 82459E4165DD728DAEF24E15EEED5C66;463.
  ) 
 Here is how much of TeX's memory you used:
- 12590 strings out of 469519
- 192638 string characters out of 5468255
- 612419 words of memory out of 5000000
- 41049 multiletter control sequences out of 15000+600000
- 661004 words of font info for 92 fonts, out of 8000000 for 9000
+ 12542 strings out of 469519
+ 191735 string characters out of 5468255
+ 610056 words of memory out of 5000000
+ 41013 multiletter control sequences out of 15000+600000
+ 660691 words of font info for 91 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 69i,11n,79p,1199b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,11n,79p,1199b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/GQAEC/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on rap-2pg-cv.pdf (3 pages, 97210 bytes).
+Output written on rap-1pg-cv.pdf (1 page, 80416 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

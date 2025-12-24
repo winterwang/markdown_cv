@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Chaochen Wang
 
-jobtitle: "Principal Scientist"
+jobtitle: "Outcomes Research Manager, Bayer Yakuhin, Ltd"
 # address: "https://www.wangcc.me"
 fontawesome: yes
 email: chaochen.wang1@alumni.lshtm.ac.uk
@@ -69,9 +69,13 @@ Lilly Japan **Innovator Award** \hfill 2024
 <!-- # EMPLOYMENT -->
 # CAREER HISTORY
 
+**Integrated Evidence Generation (IEG), Medical Affairs and Pharmacovigilance, Bayer Yakuhin, Ltd**
+
+  > Outcomes Research Manager \hfill 2025.7--Present
+
 **Japan Value, Evidence and Outcomes (VEO), Japan Drug Development and Medical Affairs (JDD&MA), Eli Lilly and Company Japan K.K.**
 
- > Principal Scientist \hfill 2024.3-Present
+ > Principal Scientist \hfill 2024.3--2025.6
 
 **Japan Value, Evidence and Outcomes (VEO), Japan Drug Development and Medical Affairs (JDD&MA), Eli Lilly and Company Japan K.K.**
 

@@ -1,0 +1,85 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Chaochen Wang
+
+jobtitle: "Outcomes Research Manager, Bayer Yakuhin, Ltd"
+# address: "https://www.wangcc.me"
+fontawesome: yes
+email: chaochen.wang1@alumni.lshtm.ac.uk
+# github: winterwang 
+# phone: "+81 90-6592-0459"
+web: wangcc.me
+updated: yes
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# EDUCATION
+
+**London School of Hygiene & Tropical Medicine**, MSc of Medical Statistics, Distinction Degree \hfill 2018.9
+
+**Nagoya University Graduate School of Medicine**, PhD in Public Health \hfill  2016.3  
+
+**Nagoya University Graduate School of Medicine**, Master of Medical Science in Epidemiology \hfill 2013.3  
+
+**Shanghai Jiaotong Univeristy**, B.S. Nutrition Science \hfill 2010.7  
+
+<!-- # EMPLOYMENT -->
+# CAREER HISTORY
+
+**Integrated Evidence Generation (IEG), Medical Affairs and Pharmacovigilance, Bayer Yakuhin, Ltd**
+
+ > Outcomes Research Manager \hfill 2025.7--Present
+
+**Department of Public Health and Health Systems, Nagoya Univeristy Graduate School of Medicine**
+
+ > Invited Faculty \hfill 2023.12--Present
+
+**Japan Value, Evidence and Outcomes (VEO), Japan Drug Development and Medical Affairs (JDD&MA), Eli Lilly and Company Japan K.K.**
+
+ > Principal Scientist \hfill 2024.3--2025.6
+
+ > Senior Scientist  \hfill 2021.10--2024.3
+
+**Department of Public Health, Aichi Medical University School of Medicine:**
+
+ > Senior Lecturer \hfill 2021.4--2021.9
+
+ > Assistant Professor \hfill 2015.4--2021.3
+
+**Clinical Study Support:**
+  
+ > Part-time Researcher (8h/w) \hfill 2018.10--2021.6
+
+
+# AWARDS & SHOLARSHIPS
+
+Lilly Japan 2024Q2 **President Award winner** \hfill 2024
+
+Lilly Japan **Innovator Award** \hfill 2024 
+ 
+**Best Reviewer** of Journal of Epidemiology  \hfill 2021.1.28
+
+Recipient of scholarship from **Otsuka Toshimi Scholarship Foundation** \hfill 2013-2014
+
+**Young Investigator's Award**, The 48th Annual Meeting of the Japanese Society of Cardiovascular Disease Prevention, Tokyo  \hfill  2012
+
+Recipient of **Ajinomoto Scholarship** for outstanding students from overseas \hfill 2011-2012
+
+**Outstanding Graduates of Shanghai Jiaotong University** \hfill 2010
+
+# PUBLICATIONS 
+
+Please refer to my [ORCID 0000-0001-5533-1497](https://orcid.org/my-orcid?orcid=0000-0001-5533-1497)
